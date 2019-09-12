@@ -7,5 +7,6 @@
     </head>
     <body>
         <h1>O exemplo para aula...!</h1>
+        <p>${user}</p>
     </body>
 </html>
